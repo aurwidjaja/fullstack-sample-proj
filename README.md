@@ -1,6 +1,6 @@
 # Fullstack Sample Project
 
-This is a very simple, sample fullstack MERN (MongoDB, Express, React, Node.js) sample project with a modern React frontend using Chakra UI, Zustand for state management, and Vite for fast development. The web app 
+This is a very simple, sample fullstack MERN (MongoDB, Express, React, Node.js) sample project with a modern React frontend using Chakra UI, Zustand for state management, and Vite for fast development. The web app has basic functions of posting, editing, and deleting projects, I followed a Youtube tutorial to learn more about fullstack through this project: https://www.youtube.com/watch?v=MDZC8VDZnV8 
 
 ## Features
 
