@@ -35,11 +35,11 @@ npm install
 ```
 
 ### 3. Configure environment variables
-Create a `.env` file in the `backend` directory based on the provided `.env.example`:
+Create a `.env` file in the root directory based on the provided `.env.example`:
 ```bash
 cp .env.example
 ```
-Edit `backend/.env` and set your MongoDB connection string:
+Set your MongoDB connection string:
 ```
 MONGODB_URI=your_mongodb_connection_string
 ```
